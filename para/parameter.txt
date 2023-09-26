@@ -1,0 +1,16 @@
+网格文件：
+G:\postgraduate\民治模型结果\Mesh413.mesh
+边界文件：
+G:\postgraduate\民治模型结果\HHS\bc.bc
+结果文件：
+G:\postgraduate\民治模型结果\HHS\results.bin
+结果数据：
+G:\postgraduate\民治模型结果\HY\2D\
+降雨文件（格式与上不同）：
+G:\\postgraduate\\民治模型结果\\HH\\降雨文件.txt
+结果输出间隔：
+60
+时间步长
+1
+模拟时间(s)：
+10800
