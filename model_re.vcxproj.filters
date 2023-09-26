@@ -41,7 +41,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\global_variables.h">
+    <ClInclude Include="src\global_variables.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include "global_variables.h"
+#include "global_variables.hpp"
 
 
 

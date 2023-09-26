@@ -29,7 +29,7 @@
     <ClCompile Include="src\tools-function.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\global_variables.h" />
+    <ClInclude Include="src\global_variables.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

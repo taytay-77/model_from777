@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <cmath>
-#include "global_variables.h"
+#include "global_variables.hpp"
 #include <iostream>
 #include <fstream>
 #include <sstream>
